@@ -11592,7 +11592,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Refund #%1","Restitutie #%1",module,Magento_Sales
 "Shipment #%1","Zending #%1",module,Magento_Sales
 "Qty Shipped","Verzonden aantal",module,Magento_Sales
-"Recent Orders","Recente orders",module,Magento_Sales
+"Recent Orders","Recente bestellingen",module,Magento_Sales
 "View All","Bekijk alles",module,Magento_Sales
 "Ship To","Verzenden aan",module,Magento_Sales
 "Gift Message for This Order","Kadobericht voor deze bestelling",module,Magento_Sales

@@ -8581,7 +8581,7 @@ information on installing the agent is available <a target=""_blank"" href=""%1"
 "Web Site","Website",module,Magento_Newsletter
 "Store","Winkel",module,Magento_Newsletter
 "Store View","Winkelaanzicht",module,Magento_Newsletter
-"Newsletter Subscriptions","Nieuwsbriefabonnementen",module,Magento_Newsletter
+"Newsletter Subscriptions","Nieuwsbrief inschrijvingen",module,Magento_Newsletter
 "Purchase order number is a required field.","Aankoop bestelnummer is een verplicht veld.",module,Magento_OfflinePayments
 "Make Check payable to:","Maak overboeking naar:",module,Magento_OfflinePayments
 "Send Check to:","Maak overboeking naar:",module,Magento_OfflinePayments

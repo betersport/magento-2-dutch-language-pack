@@ -509,7 +509,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Views","Weergaven",module,Magento_Backend
 "Revenue","Omzet",module,Magento_Backend
 "Tax","BTW",module,Magento_Backend
-"Shipping","Aflevering",module,Magento_Backend
+"Shipping","Bezorginformatie",module,Magento_Backend
 "Images (.gif, .jpg, .png)","Afbeeldingen (.gif, .jpg, .png)",module,Magento_Backend
 "Media (.avi, .flv, .swf)","Media (.avi, .flv, .swf)",module,Magento_Backend
 "All Files","Alle bestanden",module,Magento_Backend
@@ -3141,7 +3141,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "Are you sure you would like to remove this item from the shopping cart?","Weet u zeker dat u dit product wilt verwijderen uit de winkelwagen?",module,Magento_Checkout
 "Review & Payments","Overzicht & betalen",module,Magento_Checkout
 "Select a new payment method","Selecteer een nieuwe betaalmethode",module,Magento_Checkout
-"Shipping","Aflevering",module,Magento_Checkout
+"Shipping","Bezorginformatie",module,Magento_Checkout
 "Save Address","Adres opslaan",module,Magento_Checkout
 "Please specify a regionId in shipping address.","Please specify a regionId in shipping address.",module,Magento_Checkout
 "Checkout Options","Betaalopties",module,Magento_Checkout
@@ -5354,7 +5354,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Customer Address %1","Klantadres %1",module,Magento_CustomerSegment
 "Default Address","Standaard Adres",module,Magento_CustomerSegment
 "Billing","Facturatie",module,Magento_CustomerSegment
-"Shipping","Aflevering",module,Magento_CustomerSegment
+"Shipping","Bezorginformatie",module,Magento_CustomerSegment
 "Customer Address %1 Default %2 Address","Adres Klant %1 Standaard %2 Adres",module,Magento_CustomerSegment
 "Has State/Province","Heeft Staat/Provincie",module,Magento_CustomerSegment
 "If Customer Address %1 State/Province specified","Als Klantadres %1 Staat/Provincie opgegeven",module,Magento_CustomerSegment
@@ -8701,7 +8701,7 @@ If field is empty default value localhost will be saved.","IPs toegangslijst ges
 "The gateway response format was incorrect. Verify the format and try again.","The gateway response format was incorrect. Verify the format and try again.",module,Magento_Payment
 "The validator for the ""%1"" field doesn't exist.","The validator for the ""%1"" field doesn't exist.",module,Magento_Payment
 "Discount","Korting",module,Magento_Payment
-"Shipping","Aflevering",module,Magento_Payment
+"Shipping","Bezorginformatie",module,Magento_Payment
 "All Allowed Countries","Alle toegestane landen",module,Magento_Payment
 "Specific Countries","Bepaalde landen",module,Magento_Payment
 "The payment method you requested is not available.","De betalingsmethode die u hebt aangevraagd is niet beschikbaar.",module,Magento_Payment
@@ -9611,7 +9611,7 @@ or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" 
 "Grand Total","Eindtotaal",module,Magento_Quote
 "Shipping & Handling (%1)","Verzending & verwerking (%1)",module,Magento_Quote
 "Shipping & Handling","Verzending en verwerking",module,Magento_Quote
-"Shipping","Aflevering",module,Magento_Quote
+"Shipping","Bezorginformatie",module,Magento_Quote
 "Subtotal","Subtotaal",module,Magento_Quote
 "We found an invalid item option format.","We vonden een ongeldig optie formaat.",module,Magento_Quote
 "An item option with code %1 already exists.","Een product optie met code %1 bestaad reeds.",module,Magento_Quote
@@ -9937,7 +9937,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Sales Tax","BTW",module,Magento_Reports
 "Tax","BTW",module,Magento_Reports
 "Sales Shipping","Verkoop verzending",module,Magento_Reports
-"Shipping","Aflevering",module,Magento_Reports
+"Shipping","Bezorginformatie",module,Magento_Reports
 "Canceled","Geannuleerd",module,Magento_Reports
 "Total Shipped Report","Rapportage Totaal Verzonden",module,Magento_Reports
 "Carrier/Method","Vervoeder/Methode",module,Magento_Reports
@@ -10936,7 +10936,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "We can't get the order instance right now.","Orderexemplaar kan niet worden verkregen.",module,Magento_Sales
 "Create New Order","Nieuwe bestelling aanmaken",module,Magento_Sales
 "Save Order Address","Bestelling-adres opslaan",module,Magento_Sales
-"Shipping","Aflevering",module,Magento_Sales
+"Shipping","Bezorginformatie",module,Magento_Sales
 "Billing","Facturatie",module,Magento_Sales
 "Edit Order %1 %2 Address","Wijzig bestelling %1 %2 adres",module,Magento_Sales
 "Order Address Information","Bestelling adres-informatie",module,Magento_Sales

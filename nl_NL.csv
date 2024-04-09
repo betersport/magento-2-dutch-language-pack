@@ -12736,7 +12736,7 @@ configuring in shared catalogs will not be restricted to customers.","U moet de 
 "Shipping Policy Parameters","Parameters verzendmethodes",module,Magento_Shipping
 "Apply custom Shipping Policy","Toepassen aangepaste verzendmethode",module,Magento_Shipping
 "Shipping Policy","Verzend beleid",module,Magento_Shipping
-"Shipping Methods","Verzendmethodes & bezorgdatum",module,Magento_Shipping
+"Shipping Methods","Verzendmethodes",module,Magento_Shipping
 "Track your order","Uw bestelling volgen",module,Magento_Shipping
 "Track All Shipments","Traceer alle bestellingen",module,Magento_Shipping
 "Approved","Akkoord",module,Magento_Signifyd

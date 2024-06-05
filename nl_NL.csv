@@ -4788,7 +4788,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Contact Information","Contactgegevens",module,Magento_Customer
 "Change Password","Wachtwoord wijzigen",module,Magento_Customer
 "Newsletters","Nieuwsbrieven",module,Magento_Customer
-"You are subscribed to ""General Subscription"".","Je hebt zich geabonneerd op de nieuwsbrief.",module,Magento_Customer
+"You are subscribed to ""General Subscription"".","Je bent geabonneerd op de nieuwsbrief.",module,Magento_Customer
 "or","of",module,Magento_Customer
 "My Account","Account",module,Magento_Customer
 "Default Addresses","Standaard adres",module,Magento_Customer

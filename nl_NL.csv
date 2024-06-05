@@ -8492,23 +8492,23 @@ information on installing the agent is available <a target=""_blank"" href=""%1"
 "Create Newsletter Template","Nieuwsbrief-sjabloon aanmaken",module,Magento_Newsletter
 "The newsletter template has been saved.","Het nieuwsbriefsjabloon werd opgeslaan.",module,Magento_Newsletter
 "Something went wrong while saving this template.","Er ging iets fout bij het opslaan van dit sjabloon.",module,Magento_Newsletter
-"Newsletter Subscription","Nieuwsbriefabonnement",module,Magento_Newsletter
-"Something went wrong while saving your subscription.","Er ging iets mis bij het opslaan van je abonnement.",module,Magento_Newsletter
-"We have saved your subscription.","We hebben je abonnement opgeslagen.",module,Magento_Newsletter
-"A confirmation request has been sent.","Een bevestigingsmail is verstuurd.",module,Magento_Newsletter
-"We have removed your newsletter subscription.","Uw nieuwsbrief abonnement is verwijderd.",module,Magento_Newsletter
-"We have updated your subscription.","We hebben je abonnement bijgewerkt.",module,Magento_Newsletter
-"Your subscription has been confirmed.","Uw inschrijving is bevestigd.",module,Magento_Newsletter
-"This is an invalid subscription confirmation code.","De confirmatie code voor het abonnement is ongeldig.",module,Magento_Newsletter
+"Newsletter Subscription","Nieuwsbriefinschrijving",module,Magento_Newsletter
+"Something went wrong while saving your subscription.","Er ging iets mis bij het opslaan van je inschrijving.",module,Magento_Newsletter
+"We have saved your subscription.","We hebben je inschrijving opgeslagen.",module,Magento_Newsletter
+"A confirmation request has been sent.","Er is een bevestigingsmail verstuurd.",module,Magento_Newsletter
+"We have removed your newsletter subscription.","Je bent uitgeschreven van de nieuwsbrief.",module,Magento_Newsletter
+"We have updated your subscription.","We hebben je inschrijving bijgewerkt.",module,Magento_Newsletter
+"Your subscription has been confirmed.","Je inschrijving is bevestigd.",module,Magento_Newsletter
+"This is an invalid subscription confirmation code.","De bevestigingscode voor het inschrijving is ongeldig.",module,Magento_Newsletter
 "This is an invalid subscription ID.","Dit is een ongeldig abonnementsID.",module,Magento_Newsletter
-"This email address is already assigned to another user.","Dit E-Mailadres is al toegewezen aan een andere gebruiker.",module,Magento_Newsletter
+"This email address is already assigned to another user.","Dit e-mailadres is al in gebruik.",module,Magento_Newsletter
 "Sorry, but the administrator denied subscription for guests. Please <a href=""%1"">register</a>.","Inschrijving is uitsluitend voorbehouden aan geregistreerde klanten. <a href=""%1"">Registreer</a> u.",module,Magento_Newsletter
 "Please enter a valid email address.","Vul een geldig e-mailadres in.",module,Magento_Newsletter
 "This email address is already subscribed.","Dit e-mailadres is al geabonneerd.",module,Magento_Newsletter
 "Something went wrong with the subscription.","Er ging iets mis met het abonnement.",module,Magento_Newsletter
-"The confirmation request has been sent.","The confirmation request has been sent.",module,Magento_Newsletter
+"The confirmation request has been sent.","Er is een bevestingingsaanvraag verstuurd.",module,Magento_Newsletter
 "Thank you for your subscription.","Bedankt voor je inschrijving.",module,Magento_Newsletter
-"You unsubscribed.","Uw abonnement werd opgezegd.",module,Magento_Newsletter
+"You unsubscribed.","Je bent uitgeschreven.",module,Magento_Newsletter
 "Something went wrong while unsubscribing you.","Er ging iets mis tijdens het uitschrijven.",module,Magento_Newsletter
 "Sent","Verstuurd",module,Magento_Newsletter
 "Cancelled","Geannuleerd",module,Magento_Newsletter
